@@ -21,3 +21,6 @@ NOTE: this is under construction !!!
 
 Help for developers: 
  [Markdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Commit directly to the master branch.
+  Create a new branch for this commit and start a pull request. Learn more [about pull requests](https://docs.github.com/articles/using-pull-requests).
